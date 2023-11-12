@@ -1,0 +1,8 @@
+1.Support Vector Machine
+2.Naive Bayes
+3.Decision Tree
+4.k- Nearest Neighbor
+
+Decision Tree
+
+
